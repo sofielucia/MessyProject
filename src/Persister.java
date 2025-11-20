@@ -14,4 +14,7 @@ public class Persister
             bw.write(u.get(x).geti()); // Write second thing
         } // Ending parenthesis
     }
+
+    public static void s(UserList list) {
+    }
 }
